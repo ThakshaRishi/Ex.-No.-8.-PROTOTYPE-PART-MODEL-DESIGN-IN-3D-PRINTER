@@ -47,7 +47,8 @@
 
 ## Output:
 
-![image](https://github.com/ThakshaRishi/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/144870423/0a0f975c-c739-4518-ba00-6b4a2a067c96)
+![ex3](https://github.com/ThakshaRishi/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/144870423/25fa664c-9b4a-48e6-9d40-9121128973d0)
+
 
 ### Name:Thaksha Rishi
 ### Register Number:212223100058
